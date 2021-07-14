@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(4, 252, 4);
+    opacity: 0.4;
+    border-style: inset;
+    color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(7, 7, 7);
+    padding: 10px;
+  }
