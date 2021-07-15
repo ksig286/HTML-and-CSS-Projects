@@ -1,0 +1,17 @@
+
+h1 { 
+    text-align: center;
+    color: navy;
+}
+body {
+    text-align: center;
+    color:aqua;
+    background-color:coral; 
+}
+td:hover {
+    background-color:teal;
+    color:blanchedalmond;
+}
+table {
+    border: 1px solid black;
+}
